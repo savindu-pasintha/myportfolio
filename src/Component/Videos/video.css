@@ -1,0 +1,26 @@
+.videos{
+    padding: 0px;
+    margin: 0px;
+
+    width: 100%;
+    height: auto;
+
+    background: #000;
+}
+
+.videos video{
+    position: relative;
+
+    width: 100%;
+    height: 100%;
+
+    margin: 0px;
+    padding: 0px;
+
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+
+    display: block;
+}

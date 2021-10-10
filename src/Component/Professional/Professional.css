@@ -1,0 +1,40 @@
+.professional{
+    position: absolute;
+    z-index: 1000;
+    top:170%;
+    left: 25%;
+
+    width: auto;
+    height: auto;
+
+   
+}
+
+.professional h1{
+   color:tomato;
+   font-size: 100px;
+   font-weight: bolder;
+}
+
+.professional h2{
+    color: rgb(232, 248, 8);
+    font-size: 40px;
+    font-weight: bolder;
+ }
+ .professional h3{
+    color: rgb(8, 220, 248);
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 0 100px;
+ }
+ .professional framework{
+    padding-top: 20%;
+    text-align: center;
+ }
+ .professional p{
+    color: rgb(244, 245, 239);
+    font-size: 65px;
+    width:100%;
+    font-weight: bolder;
+    text-align: justify;
+ }
