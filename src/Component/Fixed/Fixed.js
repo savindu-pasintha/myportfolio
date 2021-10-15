@@ -10,6 +10,7 @@ import m from "../Videos/m.mp4";
 const Fixed = () => {
   return (
     <div className="fixed">
+      
       <div className="one">
         <Bounce top>
           <button type="button" class="btn  rounded-circle">
@@ -32,13 +33,13 @@ const Fixed = () => {
         <Bounce bottom>
           <button type="button" class="btn  rounded-circle">
             <Link>
-              {" "}
               <i class="bi bi-telephone-fill"> </i>
             </Link>
           </button>
-        </Bounce>
-      </div>
-
+         </Bounce>
+        </div>
+       
+      
       <div className="name">
         <div className="h1">
           <Bounce top>

@@ -11,6 +11,7 @@
 }
 
 
+
 .fixed .one button{
     width: 100px;height: 100px;border-radius: 100%;
     position: fixed;
@@ -80,7 +81,7 @@
    .fixed .name .h1 p{
     position: relative;
     z-index: 1000;
-    font-size: 20px;
+    font-size: 40px;
     font-family: none;
     font-style: none;
     color: black;
@@ -94,12 +95,12 @@
     position: absolute;
     z-index: 100;
 
-   width: 40%;
-   height: 40%;
+   width: 400px;
+   height: 400px;
    border-radius: 50%;
 
    top: 40%;
-   left: 20%;
+   left: 15%;
    }
 
    .fixed .personal-profile .pp{
